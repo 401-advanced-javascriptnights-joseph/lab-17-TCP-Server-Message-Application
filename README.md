@@ -5,8 +5,8 @@
 ### Author: Joseph Hangarter, Pratiibh Bassi, Jeremy Lee
 
 ### Links and Resources
-* [submission PR](http://xyz.com)
-* [travis](http://xyz.com)
+* [submission PR](https://github.com/401-advanced-javascriptnights-joseph/lab-17-TCP-Server-Message-Application/pull/2)
+* [travis]([![Build Status](https://travis-ci.com/401-advanced-javascriptnights-joseph/lab-17-TCP-Server-Message-Application.svg?branch=master)](https://travis-ci.com/401-advanced-javascriptnights-joseph/lab-17-TCP-Server-Message-Application))
 
 ### Modules
 #### `app.js`
